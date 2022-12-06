@@ -1,0 +1,7 @@
+{
+  "name": "crudGenerator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
